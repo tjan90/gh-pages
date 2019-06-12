@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My website</title>
+    <description>A virtual proof that name is awesome!</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>D3.js in Jekyll Markdown</title>
+        <description>
+          
+          I’ve used d3.select to target an element &amp;lt;div id=&quot;example&quot;&amp;gt; in this document:
+
+
+
+
+
+
+
+
+
+
+
+Things to keep in mind:
+
+
+  Include morley.csv (Search local JavaScript for /morley.csv)
+  Include D3.js
+  Include box.js
+  Include the local CSS and JavaScript
+
+
+Check out the code for this post on GitHub.
+
+        </description>
+        <pubDate>Mon, 02 Jan 2017 07:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-02-d3js-example/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-02-d3js-example/</guid>
+      </item>
+    
+      <item>
+        <title>Graduate Assistant</title>
+        <description>
+          ISISLab, University of Salerno,Italy - 
+          Worked in the lab developing application that generate static github pages which are going to be used by the end-user to be customized according to their own choices. This was developed wit the help of jekyll and javascript Here is some bold text Here is a secondary heading Here’s a...
+        </description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-02-28-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Graduate Trainee</title>
+        <description>
+          ACT-Operations &amp; Research - 
+          I was assign to develop a Google Chrome Extension for Data Analysis. It was developed in Javascript. Basically what it does was that it mark a tag in a webpage and save the details of that tag into google sheets. For this you will have to authentication a google account...
+        </description>
+        <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+      <item>
+        <title>EMIS Officer/ Full STack Developer</title>
+        <description>
+          Rural Empowerment &amp; Institutional Developement - 
+          I was responsible for the maintenance of the web application and running of the application in all the district of the schools. Several reporting forms were designed for the United Nations High Commission for Refugees which were to be submitted bythe end of every month. That flesh is heir to....
+        </description>
+        <pubDate>Fri, 13 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-02-13-hamlet-monologue/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-13-hamlet-monologue/</guid>
+      </item>
+    
+      <item>
+        <title>Dot. Net Developer Intern</title>
+        <description>
+          Brain Software Enterprises - 
+          Worked as a computer operator in the Flood Affected projet funded by United Nations. Main responsibilities includes.
+Hotel Managment Information System developed as semester project with C# and Microsoft SQL Server. Some services were integreated into the main solution for BSOFT.
+
+        </description>
+        <pubDate>Tue, 27 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-01-27-dear-diary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-27-dear-diary/</guid>
+      </item>
+    
+      <item>
+        <title>Computer operator</title>
+        <description>
+          National Commission for Human Developement - 
+          Worked as a Computer Operator in Flood Affectees project fundd by United Nations. Preparation of daily reports to the Head. Entry of daily assisted patients by Doctors in Ms Office and Oracle Consolidated figures of Assisted Patients Consolidated figures of Assisted Patients Designing of Different Formats Data Management Hard &amp;amp;...
+        </description>
+        <pubDate>Mon, 19 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-01-19-soccer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-19-soccer/</guid>
+      </item>
+    
+      <item>
+        <title>Extra Compnents</title>
+        <description>
+          
+          Extra component that may be needed later
+
+        </description>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-01-15-pirates/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-15-pirates/</guid>
+      </item>
+    
+      <item>
+        <title>Extra post 2</title>
+        <description>
+          
+          Extra component that may be needed later
+
+        </description>
+        <pubDate>Sun, 04 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-01-04-first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-01-04-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>
